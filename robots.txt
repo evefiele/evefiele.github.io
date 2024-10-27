@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evefiele.github.io/sitemap_index.evefiele
